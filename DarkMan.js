@@ -7373,21 +7373,14 @@ message.member.voiceChannel
 
 })
 .catch(console.log);
-} else {
-
-}
-}
-});
-
-    
-
+} 
 
 
 
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
+client.login("OTcyODQ4NjAxMDkwODk1OTEy.GAtXid.G1K8foUsMjJVD_jVG9oHBhGAzpxpjCUFScADXI");
 client2.login("");
 client3.login("");
 client4.login("");
